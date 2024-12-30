@@ -110,11 +110,6 @@ In file mode, commands from commands.txt are executed in sequence.
 *Offers
 Offers are applied dynamically to products in the cart.
 The most recent offer on a product overrides previous ones.
-*Testing
-Run unit tests using Maven:
-
-/bash
-mvn test
 
 ------------------------------------------------------------------------------------
 
